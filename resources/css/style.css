@@ -134,7 +134,7 @@ img {
     font-family: Georgia;
     font-size: 17px;
     color: black;
-    margin-top: 16px;
+    
 }
 
 .earth {
@@ -198,4 +198,10 @@ footer nav {
 
   display: inline-block;
   padding-left: 20px;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+
 }
